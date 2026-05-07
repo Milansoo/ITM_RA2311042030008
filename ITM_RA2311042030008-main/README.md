@@ -1,8 +1,8 @@
 # IT Project Management Repository
 
 ## Student Details
-- **Registration Number:** RA2311042030002
-- **Name:** Aditya Kumar Kapar
+- **Registration Number:** RA2311042030008
+- **Name:** Milan Kuiry 
 - **Program:** BTECH CSBS
 - **Institution:** SRM IST
 
@@ -12,7 +12,7 @@
 
 ## Repository Structure
 ```text
-ITM_RA2311042030002/
+ITM_RA2311042030008/
 ├── README.md
 ├── Academic Reports/
 │   ├── Assignment_Objectives.md
